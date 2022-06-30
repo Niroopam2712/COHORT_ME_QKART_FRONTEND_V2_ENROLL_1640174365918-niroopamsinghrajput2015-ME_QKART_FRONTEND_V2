@@ -1,0 +1,3 @@
+--_curl_--"username": "criodo"
+--_curl_-- "password": "learnbydoing"
+--_curl_-- "body": "Post content."
