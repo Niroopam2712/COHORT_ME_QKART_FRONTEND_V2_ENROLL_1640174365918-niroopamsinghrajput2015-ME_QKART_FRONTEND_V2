@@ -10,7 +10,7 @@ import Thanks from "./components/Thanks"
 
 export const config = {
   endpoint: `
-https://q-kart-frontend-niroopam.herokuapp.com/api/v1`,
+  https://cohort-me-qkart-frontend-v2-enroll-mzpu.onrender.com/api/v1`,
 };
 
 function App() {
